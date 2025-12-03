@@ -1,2 +1,2 @@
 # Projects
-A collection of all of my "not-so-big" projects over the years.
+A collection of projects that I've made over the years
